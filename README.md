@@ -19,5 +19,5 @@ To execute the processing notebooks locally, use a Python 3.x environment and im
 3. Install the environment dependencies via terminal command:
    ```bash
    pip install -r requirements.txt
-   4.Launch and run the analysis notebook:
+4.Launch and run the analysis notebook:
    jupyter notebook rfm_segmentation.ipynb
