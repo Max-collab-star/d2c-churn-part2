@@ -20,5 +20,4 @@ To execute the processing notebooks locally, use a Python 3.x environment and im
    ```bash
    pip install -r requirements.txt
 4.Launch and run the analysis notebook:
-   '''bash
    jupyter notebook rfm_segmentation.ipynb
